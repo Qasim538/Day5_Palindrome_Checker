@@ -16,3 +16,4 @@ function palindrome() {
   } else {
     result.innerHTML = `${word.toUpperCase()} is NOT a palindrom`;
   }
+}
